@@ -1,0 +1,12 @@
+docx==0.2.4
+openpyxl==3.0.9
+fitz==0.0.1.dev2
+tqdm==4.62.3
+PyMuPDF==1.19.13
+
+
+docx: Biblioteca para criação e manipulação de documentos Microsoft Word (.docx).
+openpyxl: Biblioteca para criação e manipulação de arquivos Excel (.xlsx).
+fitz: PyMuPDF, biblioteca para manipulação de documentos PDF.
+tqdm: Biblioteca para exibir barras de progresso em loops e operações de download.
+PyMuPDF: Outra biblioteca para manipulação de documentos PDF.
