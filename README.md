@@ -20,25 +20,26 @@ o	fitz (PyMuPDF)
 o	docx
 o	tqdm
 Como Usar
+
 1.	Clone o repositório:
-bash
-Copiar código
-git clone https://github.com/seu_usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+
+git clone [https://github.com/seu_usuario/nome-do-repositorio.git](https://github.com/diogosl2/PDFSearchAndDownload)
+
 2.	Instale as dependências:
-bash
-Copiar código
+
 pip install -r requirements.txt
-3.	Execute o script:
+
+4.	Execute o script:
+   
 o	Execute o script Python file_search.py e siga as instruções para selecionar o diretório e digitar o termo a ser buscado nos arquivos.
 bash
+
 Copiar código
 python file_search.py
-4.	Resultados:
+
+6.	Resultados:
 o	Após a execução, um arquivo Excel será gerado na pasta do projeto contendo os resultados da busca.
-Exemplo de Estrutura de Arquivos
-perl
-Copiar código
+
 
 nome-do-repositorio/
 │
